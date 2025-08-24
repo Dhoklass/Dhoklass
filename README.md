@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhoklass
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning all the programming languages like C, Python, C++ as well as some DBMS etc..
+- 🌱 I’m currently learning all the programming languages like C, Python, php, HTML-CSS, Javascript, as well as MySQL, PostgresSQL etc..
 - 💞️ I’m looking to collaborate on my future projects
 - 📫 you can reach me on my email that is - yasht8516@gmail.com 
 - 😄 Pronouns: he/him
